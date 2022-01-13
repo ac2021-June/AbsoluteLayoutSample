@@ -1,0 +1,4 @@
+﻿
+namespace AbsoluteLayoutSample.Skia.Gtk
+{
+}
